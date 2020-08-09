@@ -11,6 +11,7 @@
 |----------|------------|------|
 | [1654](https://www.acmicpc.net/problem/1654)     | [Silver III](https://solved.ac/search?query=1654) | [cpp](./Silver/Silver_III/1654.cpp)  |
 | [2110](https://www.acmicpc.net/problem/2110)     | [Silver II](https://solved.ac/search?query=2110) | [cpp](./Silver/Silver_II/2110.cpp)  |
+| [2805](https://www.acmicpc.net/problem/2805)     | [Silver II](https://solved.ac/search?query=2805) | [cpp](./Silver/Silver_II/2805.cpp)  |
 
 </div>
 </details>
