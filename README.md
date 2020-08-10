@@ -22,7 +22,7 @@
 
 | 문제번호 | 난이도     | 코드 |
 |----------|------------|------|
-| [2156](https://www.acmicpc.net/problem/2156     | [Silver I](https://solved.ac/search?query=2156) | [cpp](./Silver/Silver_I/2156.cpp)  |
+| [2156](https://www.acmicpc.net/problem/2156) | [Silver I](https://solved.ac/search?query=2156) | [cpp](./Silver/Silver_I/2156.cpp)  |
 
 </div>
 </details>
